@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConstructionBankAIUI</string>
+    <string name="app_id">5a67df50</string>
+    <string name="pref_key_iat_show">iat_show</string>
+    <string name="text_begin">请开始说话…</string>
+
+    <string formatted="false" name="tts_toast_format">缓冲进度为%d%%，播放进度为%d%%</string>
+</resources>
